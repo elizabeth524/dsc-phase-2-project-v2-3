@@ -1,4 +1,4 @@
-![House Picture]()
+![House Picture](https://github.com/elizabeth524/dsc-phase-2-project-v2-3/blob/main/Images/preservingcommunityandfairchoice.jpg)
 
 # King County House Analysis
 
