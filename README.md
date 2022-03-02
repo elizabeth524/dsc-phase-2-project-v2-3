@@ -73,7 +73,7 @@ According to our model, zipcodes can have a huge impact on prices, increasing th
 
 This linear regression model led me to three recommendations based on house prices and zipcodes:
 
-* If the client is looking for a home that is prestigious and shows that they have a lot of money, the Real Estate Group should show them houses with zipcodes **98112**, **98004**, **98039**.
+* If the client is looking for a home that is prestigious and is in a highly desirable neighborhood, the Real Estate Group should show them houses with zipcodes **98112**, **98004**, **98039**.
 
 * If the client is less concerned with the area and more interested in saving money, houses with zipcodes **98168**, **98030**, and **98022** should be the direction that the Real Estate Group moves in.
 
@@ -89,6 +89,6 @@ In this project, we are only looking at surface level coefficients in order to m
 
 ## For More Information
 
-See the full analysis in the [Jupyter Notebook](https://github.com/elizabeth524/dsc-phase-2-project-v2-3/blob/main/student.ipynb) or review my [presentation]().
+See the full analysis in the [Jupyter Notebook](https://github.com/elizabeth524/dsc-phase-2-project-v2-3/blob/main/student.ipynb) or review my [presentation](https://github.com/elizabeth524/dsc-phase-2-project-v2-3/blob/main/King%20County%20House%20Prices%20Presentation.pdf).
 
 For additional information, contact Elizabeth Webster at [eaw524@gmail.com](eaw524@gmail.com)
