@@ -55,12 +55,12 @@ From there, we aimed to increase our R-squared value by adding in more variables
 
 ### Checking for Assumptions
 
-Once we had our final linear regression model, we checked to make sure that it did not have any Multicolinearlity or violate any of the linear regression assumptions: Linearity, Normality, and Homoscedasticity.  Once we verified our assumptions, we began looking into our coefficients.
+Once we had our final linear regression model, we checked to make sure that it did not have any **Multicolinearlity** or violate any of the linear regression assumptions: **Linearity**, **Normality**, and **Homoscedasticity**.  Once we verified our assumptions, we began looking into our coefficients.
 
 ## Coefficient Results
 
 ### Log Transformation Effects on Coefficients
-We used a log transformation on our dependent variable (price), meaning our coefficients will be in terms of percentages rather than units.  For example, our variable "bedrooms" has a coefficient of 0.0350, meaning that one unit increase in bedrooms results in a 3.5% increase in price.  Sqft_lot was also log transformed, so this coefficient tells us that a 1% increase in square feet results in a 10.32% increase in price.
+We used a log transformation on our dependent variable (*price*), meaning our coefficients will be in terms of percentages rather than units.  For example, our variable *bedrooms* has a coefficient of 0.0350, meaning that one unit increase in bedrooms results in a 3.5% increase in price.  *Sqft_lot* was also log transformed, so this coefficient tells us that a 1% increase in square feet results in a 10.32% increase in price.
 
 ### Zipcode Coefficients
 The three zipcodes that have the highest positive impact on price are 98112, 98004 and 98039 with respective coefficients of 101.39%, 110.39%, and 129.06%
